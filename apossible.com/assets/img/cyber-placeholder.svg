@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="770" viewBox="0 0 1000 770" role="img" aria-label="Cybersecurity placeholder image">
+  <rect width="1000" height="770" fill="#f0efe9"/>
+  <path d="M160 160h680v450H160z" fill="#222" opacity=".08"/>
+  <path d="M230 230h540v64H230zm0 112h360v34H230zm0 70h460v34H230zm0 70h300v34H230z" fill="#333" opacity=".32"/>
+  <circle cx="770" cy="255" r="36" fill="#ffcb69" opacity=".8"/>
+  <circle cx="704" cy="514" r="26" fill="#d08c60" opacity=".7"/>
+  <path d="M770 291v122l-66 75" fill="none" stroke="#997b66" stroke-width="10" stroke-linecap="round"/>
+  <path d="M668 270l-52 46 52 46m110-92 52 46-52 46" fill="none" stroke="#797d62" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="230" y="590" fill="#333" font-family="Arial, sans-serif" font-size="42">Cyber Troopers</text>
+</svg>
